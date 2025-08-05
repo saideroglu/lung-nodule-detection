@@ -7,9 +7,7 @@ This project focuses on detecting lung nodules from CT (Computed Tomography) sca
 
 This project utilizes the **LUNA16 dataset**, which contains CT scans for lung nodule detection.
 
-**Note:** Due to file size, the dataset is not included in this repository.
-
-[LUNA16 Dataset Link](https://luna16.grand-challenge.org/)
+**Note:** Due to file size, the dataset is not included in this repository. Instead, download links are provided in the `dataset.txt` file.
 
 ---
 
